@@ -16,4 +16,3 @@ Movie data is fetched from **TMDB API**, and trailers are played directly via **
 - **Frontend**: React, Vite, CSS
 - **Auth**: Firebase Authentication
 - **APIs**: TMDB (The Movie Database), YouTube
-- **Hosting**: (Optional: add Firebase Hosting / Vercel / Netlify if applicable)
